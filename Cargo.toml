@@ -1,0 +1,6 @@
+[package]
+name = "searchemailid"
+version = "0.1.0"
+authors = ["Kushal Das <mail@kushaldas.in>"]
+
+[dependencies]
